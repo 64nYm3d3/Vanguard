@@ -9,7 +9,7 @@ Repeat 6 times with the 7th row being 6 images (the 70th card face in an image i
 cardFaceAll == [$url0,$url1,$url2,$url3...]
 // all card urls
 
-string cardFace = 'nonthing'
+string cardFace = 'nothing'
 
 def cardFaceURL;
   for(i=0, i in range cardFaceAll.length, i=i++);
