@@ -1,5 +1,5 @@
 # Vanguard
-Mockup for building vanguard decks in TTS, TTS requires an images to be in specific format
+Mockup pseudo code for building vanguard decks in TTS, TTS requires an images to be in specific format
 
 7x images a row ending with <p style='clear: both;'>
 
